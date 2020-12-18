@@ -1,8 +1,8 @@
-config.py - настройки бота
-parsin_clanstat.py - відповідає за парсинг інформації про війни та стан клану
-before_procesin.py - обробляє інформацію отриману після парсінгу
-databaze_create_main_clan.py - обновлення інформації про клан в базі данних
-databaze_create_main_war.py - обновлення інформації про війни в базі данних
-databaze_create_update.py - створення бази данних основано на новій інформації
-stat_ranking_update.py - алгоритм прорахунку рейтингу клану та обновлення рейтингу
-main_program.py - головна програма яка запускаэ обновлення статистики
+config.py - bot settings
+parsin_clanstat.py - webpage (with info about clan and clan`s members) parsing
+before_procesin.py - processing information from internet
+databaze_create_main_clan.py - update information about clan
+databaze_create_main_war.py - update information about clan wars
+databaze_create_update.py - processing advanced information and create other database
+stat_ranking_update.py - different ratings algorithms
+main_program.py - main script
