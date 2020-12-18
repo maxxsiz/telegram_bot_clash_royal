@@ -1,3 +1,5 @@
+Сreation a telegram bot which can extract information from the Internet and process. Then give to the members of the telegram chat as a text view and graphic form.
+--------------------------------------------------
 config.py - bot settings
 parsin_clanstat.py - webpage (with info about clan and clan`s members) parsing
 before_procesin.py - processing information from internet
